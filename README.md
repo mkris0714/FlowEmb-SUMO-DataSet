@@ -1,12 +1,13 @@
-# SUMO-DataSet
-in FlowEmb Paper, SUMO CaseStudy Data Set
+# Rater--Casestudy-DataSet
+in Rater paper, casestudy dataset generated from SUMO site: https://www.eclipse.org/sumo/
+
+x,y coordinates of cars' position are saved in files
 
 DataSet Type
-1. Country-A  Suburb of Orlando, Florida
-2. City-Cambria Heights, New York
-3. Highway-An Interchange of  Vietnam Veterans Memorial andDartmouth College Highway, New Hampshire
+A. city_big: Midtown Manhattan, New York (Day)
+B. city_small: Midtown Manhattan, New York (Night)
+C. country: A suburb of Orlando, Florida
 
-Download 
-1. Using git lfs
-2. Git Clone
-3. Git lfs pull
+Download Method (Using git lfs)
+1. Git Clone
+2. Git lfs pull
