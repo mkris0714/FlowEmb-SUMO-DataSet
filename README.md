@@ -1,5 +1,5 @@
-# Rater--Casestudy-DataSet
-in Rater paper, casestudy dataset generated from SUMO site: https://www.eclipse.org/sumo/
+# Repot-Casestudy-DataSet
+in Repot paper, Repot: Transferable Reinforcement Learning for Quality-centric Networked Monitoring in Various Environments, casestudy dataset generated from SUMO site: https://www.eclipse.org/sumo/
 
 x,y coordinates of cars' position are saved in files
 
