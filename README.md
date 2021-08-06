@@ -6,11 +6,9 @@ x,y coordinates of cars' position are saved in files
 
 [DataSet Type]
 
-A. city_big: Midtown Manhattan, New York (Day)
+A. city: Midtown Manhattan, New York (Day)
 
-B. city_small: Midtown Manhattan, New York (Night)
-
-C. country: A suburb of Orlando, Florida
+B. country: A suburb of Orlando, Florida
 
 
 [Download Method (Using git lfs)]
